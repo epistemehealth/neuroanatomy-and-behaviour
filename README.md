@@ -1,9 +1,6 @@
 # Neuroanatomy and Behaviour
 Neuroanatomy and Behaviour (ISSN: 2652-1768) is a journal for behavioural neuroscience, founded in 2019 to publish research, review and commentary papers. It is published by Episteme Health Inc., a non-profit incorporated association based in Melbourne, Australia. There are no fees for authors or readers.
 
-# 2019-articles
-This repository archives articles published in the journal in 2019. Please see each article for licensing details.
-
 # Submissions
 Authors interested in submitting to the journal should visit the journal [website](https://doi.org/10.35430/nab).
 
